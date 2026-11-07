@@ -5,7 +5,6 @@ On-demand Valheim and Enshrouded server on Clouding.io, controlled from Telegram
 - `/start <game>` from Telegram wakes the server
 - It saves, backs up and archives itself when nobody is playing
 - One server, one game at a time, switchable from the bot
-- Costs ~€8/month for both games, compared with ~$16 for one game on a hosted 24/7 server
 
 ## Status
 
