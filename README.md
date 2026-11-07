@@ -1,4 +1,4 @@
-# game-server
+# on-demand-game-server
 
 On-demand Valheim and Enshrouded server on Clouding.io, controlled from Telegram.
 
